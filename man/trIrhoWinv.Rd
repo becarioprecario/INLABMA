@@ -46,7 +46,7 @@ LeSage and Page (2008)
 Bivand et al. (2013)
 }
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~

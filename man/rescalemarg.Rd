@@ -31,7 +31,7 @@ probability densities. This is also an object of classes \code{inla.marginal}.
 INLA
 }
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~

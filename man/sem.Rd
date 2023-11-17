@@ -89,19 +89,19 @@ the variance-covariance matrix of the error term or random effects.
 An \code{inla} object.
 }
 \references{
-  Roger S. Bivand, Virgilio Gómez-Rubio, Håvard Rue (2014). Approximate 
+  Roger S. Bivand, Virgilio GÃ³mez-Rubio, HÄºvard Rue (2014). Approximate 
   Bayesian inference for spatial econometrics models. Spatial Statistics, 
   Volume 9, 146-165.
 
-  Roger S. Bivand, Virgilio Gómez-Rubio, Håvard Rue (2015). Spatial
+  Roger S. Bivand, Virgilio GÃ³mez-Rubio, HÄºvard Rue (2015). Spatial
   Data Analysis with R-INLA with Some Extensions. Journal of
   Statistical Software, 63(20), 1-31. URL http://www.jstatsoft.org/v63/i20/.
 
-  Virgilio Gómez-Rubio and Francisco-Palmí Perales (2016).  Spatial Models with the Integrated Nested Laplace Approximation within Markov Chain Monte Carlo. Submitted.
+  Virgilio GÃ³mez-Rubio and Francisco-PalmÃ­ Perales (2016).  Spatial Models with the Integrated Nested Laplace Approximation within Markov Chain Monte Carlo. Submitted.
 
 }
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~

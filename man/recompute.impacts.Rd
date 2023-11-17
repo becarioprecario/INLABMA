@@ -32,7 +32,7 @@ Original object with the updated summary statistics of the impacts.
 Bivand et al. (2013)
 }
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~

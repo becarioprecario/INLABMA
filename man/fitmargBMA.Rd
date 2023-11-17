@@ -68,7 +68,7 @@ distribution.
 %% ~put references to the literature/web site here ~
 %%}
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~

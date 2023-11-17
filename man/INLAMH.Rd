@@ -64,10 +64,10 @@ has been accepted or not. This is useful to compute the acceptance rate.}
 a list beacuse the sampled values can be vectors.}
 }
 \references{
-Virgilio Gómez-Rubio and Håvard Rue (2017).  Markov Chain Monte Carlo with the Integrated Nested Laplace Approximation. \url{https://arxiv.org/abs/1210.4908}.
+Virgilio GÃ³mez-Rubio and HÄºvard Rue (2017).  Markov Chain Monte Carlo with the Integrated Nested Laplace Approximation. \url{https://arxiv.org/abs/1210.4908}.
 }
 \author{
-Virgilio Gómez-Rubio.
+Virgilio GÃ³mez-Rubio.
 }
 
 %%\examples{

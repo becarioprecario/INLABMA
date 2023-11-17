@@ -37,7 +37,7 @@ Returns a function with \code{x} and \code{deriv} arguments.  See \code{\link{sp
 %% ~put references to the literature/web site here ~
 %%}
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~

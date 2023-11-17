@@ -35,7 +35,7 @@ Vector of averaged fitted values.
 %% ~put references to the literature/web site here ~
 %%}
 \author{
-Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
+Virgilio GÃ³mez-Rubio <virgilio.gomez@uclm.es>
 }
 %%\note{
 %%  ~~further notes~~
@@ -50,11 +50,11 @@ Virgilio Gómez-Rubio <virgilio.gomez@uclm.es>
 % R documentation directory.
 
 \references{
-  Roger S. Bivand, Virgilio Gómez-Rubio, Håvard Rue (2014). Approximate 
+  Roger S. Bivand, Virgilio GÃ³mez-Rubio, HÄºvard Rue (2014). Approximate 
   Bayesian inference for spatial econometrics models. Spatial Statistics, 
   Volume 9, 146-165.
 
-  Roger S. Bivand, Virgilio Gómez-Rubio, Håvard Rue (2015). Spatial
+  Roger S. Bivand, Virgilio GÃ³mez-Rubio, HÄºvard Rue (2015). Spatial
   Data Analysis with R-INLA with Some Extensions. Journal of
   Statistical Software, 63(20), 1-31. URL http://www.jstatsoft.org/v63/i20/.
 }
