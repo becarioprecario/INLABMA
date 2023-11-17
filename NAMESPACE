@@ -12,3 +12,4 @@ import(spdep)
 
 importFrom("stats", "as.formula", "dnorm", "integrate", "model.matrix",
              "runif", "splinefun", "update", "quantile")
+importFrom("methods", "is")
