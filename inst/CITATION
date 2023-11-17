@@ -10,12 +10,12 @@ citEntry(entry = "Article",
   volume       = "63",
   number       = "20",
   pages        = "1--31",
-  url          = "http://www.jstatsoft.org/v63/i20/",
+  url          = "https://www.jstatsoft.org/v63/i20/",
 
   textVersion  =
   paste("Roger S. Bivand, Virgilio Gomez-Rubio, Havard Rue (2015).",
         "Spatial Data Analysis with R-INLA with Some Extensions.",
         "Journal of Statistical Software, 63(20), 1-31.",
-        "URL http://www.jstatsoft.org/v63/i20/.")
+        "URL https://www.jstatsoft.org/v63/i20/.")
 )
 
