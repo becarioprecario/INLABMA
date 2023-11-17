@@ -43,7 +43,7 @@ while (i <= n.sim.tot) {
    #Fit model using try to handle possible errors in INLA
    model.new <- try(fit.inla(d, b.new))
 
-   if(class(model.new) == "try-error") {
+   if(is(model.new, "try-error")) {
      #Update number of errors
      n.err.idx <- n.err.idx + 1
 
