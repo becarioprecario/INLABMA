@@ -1,0 +1,14 @@
+export(sem.inla, slm.inla, sdm.inla, sac.inla, leroux.inla)
+
+export(logprrho, rescalemarg)
+
+export(mysplinefun, BMArho, INLABMA)
+
+export(INLAMH)
+
+import(parallel)
+import(sp)
+import(spdep)
+
+importFrom("stats", "as.formula", "dnorm", "integrate", "model.matrix",
+             "runif", "splinefun", "update", "quantile")

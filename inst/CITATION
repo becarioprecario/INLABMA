@@ -1,0 +1,21 @@
+citHeader("To cite INLABMA in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Spatial Data Analysis with {R}-{INLA} with Some Extensions",
+  author       = personList(as.person("Roger S. Bivand"),
+                   as.person("Virgilio G\\'omez-Rubio"),
+                   as.person("H{\\aa}vard Rue")),
+  journal      = "Journal of Statistical Software",
+  year         = "2015",
+  volume       = "63",
+  number       = "20",
+  pages        = "1--31",
+  url          = "http://www.jstatsoft.org/v63/i20/",
+
+  textVersion  =
+  paste("Roger S. Bivand, Virgilio Gomez-Rubio, Havard Rue (2015).",
+        "Spatial Data Analysis with R-INLA with Some Extensions.",
+        "Journal of Statistical Software, 63(20), 1-31.",
+        "URL http://www.jstatsoft.org/v63/i20/.")
+)
+
