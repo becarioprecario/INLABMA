@@ -2,7 +2,7 @@
 \alias{trIrhoWinv}
 
 \title{
-Compute trace of (I-rho*W)^{-1} matrix
+Compute trace of (I-rho*W)^\{-1\} matrix
 }
 \description{
 This function computes (or estimates) the trace of matrix (I-rho*W)^\{-1\},
